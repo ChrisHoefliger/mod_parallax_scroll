@@ -1,0 +1,1 @@
+This is a fork of the Joomla module Parallax Scroll written and published by https://logichunt.com/documentation/joomla-parallax-scroll. It was last updated in January 2021 and sadly discontinued. As it is a simple module, I thought I try to make it fit for Joomla 5 & 6. It runs without the caompat plugin.
